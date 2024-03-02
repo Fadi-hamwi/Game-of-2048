@@ -139,7 +139,7 @@ public class Model extends Observable {
      *  Empty spaces are stored as null.
      */
     public static boolean emptySpaceExists(Board b) {
-        return isValExistsInBoard(b, 0); //  0 represents white space in this context.
+        return isValExistsInBoard(b, 0); //  0 represents empty space in this context.
     }
 
     /**
