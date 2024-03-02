@@ -10,6 +10,7 @@ All tiles slide in that direction until there is no empty space left in the dire
 A tile can possibly merge with another tile which earns the player points.
 
 The below GIF is an example to see what the result of a few moves looks like.
+
 ![](https://fa22.datastructur.es/materials/proj/proj0/img/example-2048.gif)
 
 # Important Note 
